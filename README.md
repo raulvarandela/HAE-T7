@@ -2,7 +2,7 @@
 Ejercicios de la tarea 7 de la asigntura de Hardware de Aplicación Específica del curso 2019/20
 
 
-El archivo sumador_1bit.vhd corresponde al circuito:
+El archivo sumador_1bit.vhd (https://github.com/raulvarandela/HAE-T7/blob/master/comparador_4bit.vhd) corresponde al circuito:
 
 ![imagen del sumador de 1 bit](https://github.com/raulvarandela/HAE-T7/blob/master/imagenes/sumador_1bit.PNG)
 
